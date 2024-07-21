@@ -1,2 +1,2 @@
 # Yoga-Lax
- Yoga-Lax Website
+ Yoga-Lax classes website design | Html , Css , Javascript with scrollreveal animations.
